@@ -2,6 +2,7 @@
 
 This is a porfolio site template complete with a blog. Includes:
 
+- Next.js 15
 - MDX and Markdown support
 - Optimized for SEO (sitemap, robots, JSON-LD schema)
 - RSS Feed
@@ -13,7 +14,7 @@ This is a porfolio site template complete with a blog. Includes:
 
 ## Demo
 
-<https://portfolio-blog-starter.vercel.app>
+<https://portfolio-starter-kit-wangqiyangx.vercel.app>
 
 ## How to Use
 
